@@ -1,7 +1,7 @@
 # Frontend-Mentor-Challenge-News-Homepage
 
 ## Site Url
-[Link text Here](https://mi-frontent-mentor-project-1.netlify.app/)
+[Page](https://mi-frontent-mentor-project-1.netlify.app/)
 
 
 ## Desktop
